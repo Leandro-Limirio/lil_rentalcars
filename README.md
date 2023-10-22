@@ -1,4 +1,7 @@
 # Rental Cars
-Script para Fivem desenvolvido para o público academy por mim que possibilita os players a alugarem um veículo vip pelo período de 24 horas. 
+Front-End: Rael
+Back-End : LIL
+Script desenvolvido por mim e pelo Rael.
+Este script possibilita um player possuir um veículo vip por 24 horas.
 
 Demonstração do script: https://youtu.be/U4Om0tm_akk
